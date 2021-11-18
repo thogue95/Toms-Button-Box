@@ -8,6 +8,7 @@ Much of the functionality is provided by the ArduinoJoyStickLibrary which can be
 
 
 Schematic:
+
 The letters in red are the key mappings and the sketch file is modified to match those.  If you change your key mapping, then modified the sketch to match.  
 
 The black letters and numbers are the Leonardo pin mappings.
