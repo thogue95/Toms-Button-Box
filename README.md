@@ -7,4 +7,10 @@ Originally got this code from the AMStudio Youtube video. https://www.youtube.co
 Much of the functionality is provided by the ArduinoJoyStickLibrary which can be found at: https://github.com/MHeironimus/ArduinoJoystickLibrary
 
 
+Schematic:
+The letters in red are the key mappings and the sketch file is modified to match those.  If you change your key mapping, then modified the sketch to match.  
+
+The black letters and numbers are the Leonardo pin mappings.
+
+
 ![Screen Shot 2021-11-17 at 2 43 36 PM](https://user-images.githubusercontent.com/8271391/142297145-07473987-9af5-4001-9642-0791aab14b3a.png)
