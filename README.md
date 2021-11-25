@@ -1,4 +1,4 @@
-# Button-Box
+# Iracing Button Box
 
 Update: 11-25-2021:  Completed the 3D printout files for the enclosure and the arduino code.  The end result is a simple plug and play button box that after you plug it into the free usb port on your computer the buttons are mapped to any functions like on your wheel.  Below are images of the button box in the 3D Freecad and STL files for Cura.
 
